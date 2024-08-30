@@ -1,5 +1,7 @@
 # ACR Notifications Plugin for Xamarin and Windows
 
+This is nothing.
+
 Plugin for Easy Cross Platform notifications
 
 [![NuGet](https://img.shields.io/nuget/v/Acr.Notifications.svg?maxAge=2592000)](https://www.nuget.org/packages/Acr.Notifications/)
